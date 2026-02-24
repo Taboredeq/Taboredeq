@@ -10,6 +10,7 @@ Tools I use:
 ![MATLAB](https://img.shields.io/badge/MATLAB-FF6F00?style=flat-square&logo=mathworks&logoColor=white)
 ![Simulink](https://img.shields.io/badge/Simulink-FF6F00?style=flat-square&logo=mathworks&logoColor=white)
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6F00?style=flat&logo=autodesk&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-314CB6?style=flat&logo=kicad&logoColor=white)
 
 ## About Me
 
