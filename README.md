@@ -1,5 +1,9 @@
 ## Norbert Boroń
-Automation & Robotics student | Control Systems | Embedded Systems | MATLAB | Arduino | Python | C/C++
+
+## About Me
+
+I am a student of Automation & Robotics with a passion for control systems, embedded electronics, and robotics.
+I enjoy building projects that integrate sensors, actuators, and programming to solve real-life problems.
 
 Tools I use:
 
@@ -12,10 +16,7 @@ Tools I use:
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6F00?style=flat&logo=autodesk&logoColor=white)
 ![KiCad](https://img.shields.io/badge/KiCad-314CB6?style=flat&logo=kicad&logoColor=white)
 
-## About Me
 
-I am a student of Automation & Robotics with a passion for control systems, embedded electronics, and robotics.
-I enjoy building projects that integrate sensors, actuators, and programming to solve real-life problems.
 
 ## My projects
 
