@@ -20,6 +20,30 @@ Tools I use:
 
 ## My projects
 
+### 🤖 BMO Voice Assistant (ESP32 + OpenAI)
+Embedded voice assistant with real-time audio streaming and AI interaction.  
+- ESP32 + Python backend (TCP communication)  
+- Speech-to-text → GPT → text-to-speech pipeline  
+- Custom audio processing (voice effects)  
+- TFT display + full hardware integration
+
+### 💡 Smart Lighting System
+Automatic lighting system based on environment sensing.  
+- Motion + ambient light detection  
+- Real-time embedded control (ESP32)  
+- Power-efficient logic
+
+### 🚀 Rocket Flight Simulation
+Physics-based rocket simulation in MATLAB Simulink.  
+- Includes thrust, drag, gravity, buoyancy, air resistane
+- Parachute deployment at certain hight
+- Dynamic modeling and analysis
+
+### 🎯 LQR Controller
+State-space control system design (team project).  
+- LQR implementation and tuning  
+- System stabilization and simulation
+
 ## Contact
 
 - Email: norbercik.boron@gmail.com
