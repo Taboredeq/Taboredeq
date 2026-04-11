@@ -43,7 +43,7 @@ https://github.com/Taboredeq/Smart-Lighting-Controller
 
 ### 🚀 Rocket Flight Simulation
 Physics-based rocket simulation in MATLAB Simulink.  
-- Includes thrust, drag, gravity, buoyancy, air resistane
+- Includes thrust, drag, gravity, buoyancy, air resistance
 - Parachute deployment at certain hight
 - Dynamic modeling and analysis
 
@@ -53,8 +53,10 @@ https://github.com/Taboredeq/Rocket-Flight-Simulation
 
 ### 🎯 LQR Controller
 State-space control system design (team project).  
-- LQR implementation and tuning  
+- LQR implementation and tuning
+- Model linearisation
 - System stabilization and simulation
+
 
 https://github.com/Taboredeq/LQR-Cart-Pole-Controller
 
