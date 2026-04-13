@@ -34,7 +34,7 @@ https://github.com/Taboredeq/ESP32-Server-Based-Voice-Agent
 ### 💡 Smart Lighting System
 Automatic lighting system based on environment sensing.  
 - Motion + ambient light detection  
-- Real-time embedded control (ESP32)  
+- Real-time embedded control
 - Power-efficient logic
 
 https://github.com/Taboredeq/Smart-Lighting-Controller
